@@ -7,7 +7,7 @@ I’m passionate about **software development** and love building projects that 
 ---
 
 ## 🌟 About Me
-- ⚙️ I use daily: .php, .js, .html, .css, .tsx, .cpp, .dart
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.tsx`, `.cpp`, `.dart`
 - 🎓 Graduated with Latin honors (**Cum Laude**)  
 - 💻 Aspiring **Software Developer** with hands-on experience in **Laravel, React, Java, C++, ASP .NET, React Native, Flutter, and many more** 
 - ✨ I believe in **clean, reusable code** and continuous learning  
